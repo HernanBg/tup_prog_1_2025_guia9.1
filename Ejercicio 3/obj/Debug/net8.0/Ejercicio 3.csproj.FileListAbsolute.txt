@@ -1,0 +1,14 @@
+C:\Users\Herna\Desktop\Guia9.1\Ejercicio1\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.exe
+C:\Users\Herna\Desktop\Guia9.1\Ejercicio1\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.deps.json
+C:\Users\Herna\Desktop\Guia9.1\Ejercicio1\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.runtimeconfig.json
+C:\Users\Herna\Desktop\Guia9.1\Ejercicio1\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.dll
+C:\Users\Herna\Desktop\Guia9.1\Ejercicio1\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.pdb
+C:\Users\Herna\Desktop\Guia9.1\Ejercicio1\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herna\Desktop\Guia9.1\Ejercicio1\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.AssemblyInfoInputs.cache
+C:\Users\Herna\Desktop\Guia9.1\Ejercicio1\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.AssemblyInfo.cs
+C:\Users\Herna\Desktop\Guia9.1\Ejercicio1\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\Herna\Desktop\Guia9.1\Ejercicio1\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.dll
+C:\Users\Herna\Desktop\Guia9.1\Ejercicio1\Ejercicio 3\obj\Debug\net8.0\refint\Ejercicio 3.dll
+C:\Users\Herna\Desktop\Guia9.1\Ejercicio1\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.pdb
+C:\Users\Herna\Desktop\Guia9.1\Ejercicio1\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.genruntimeconfig.cache
+C:\Users\Herna\Desktop\Guia9.1\Ejercicio1\Ejercicio 3\obj\Debug\net8.0\ref\Ejercicio 3.dll
